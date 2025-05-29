@@ -12,7 +12,7 @@
 	
 	<groupId>com.jlmorab.ms.message</groupId>
 	<artifactId>ms-message-kafka</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>ms-message-kafka</name>
 	<description>Messaging broker with Kafka</description>
 	
